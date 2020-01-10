@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+body {
+	margin: 0;
+	font-family: Helvetica;	
+}
+nav {
+	background-color: #d3d3d3;
+	padding: 10px 10px;
+	color: #ffffff;
+	overflow: auto;
+	height: 60px;
+}
+nav li {
+	float: right;
+	list-style: none;
+	margin-right: 10px;
+}
